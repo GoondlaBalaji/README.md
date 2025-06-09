@@ -1,4 +1,8 @@
 <h2 align="left">Hi 👋! My name is Goondla Balaji and I'm a Computer Science Student, from Gitam University</h2>
+🎯 Aspiring App Developer and Data Analyst with a keen interest in building intuitive applications and extracting insights from data to drive informed decisions.
+📲 currently learning Android app development.  
+👨🏼‍🎓 studying media based computer science at Gitam University.
+👨🏼‍💻 doing projects as Data Analyst since 2024 
 
 ###
 
