@@ -3,6 +3,8 @@
 📲 currently learning Android app development.  
 👨🏼‍🎓 studying media based computer science at Gitam University.
 👨🏼‍💻 doing projects as Data Analyst since 2024 
+🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+
 
 ###
 
