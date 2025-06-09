@@ -58,14 +58,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoondlaBalaji/Goondla Balaji/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoondlaBalaji/Goondla Balaji/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Goondla Balaji/GoondlaBalaji/output/github-snake.svg" />
-</picture>
-
-###
-
 <div align="center">
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpqd3lwbGJjYzIwdW5ja2IyYnFkc3M4N3hhZG45MjQ0dXdkNjB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
 </div>
